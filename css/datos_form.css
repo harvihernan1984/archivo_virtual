@@ -1,0 +1,65 @@
+.divdatos_form{ width:99%; height:99%; overflow:auto;}
+.divdatos_form table{
+	 border:#CCCCCC dotted 1px;
+}
+.divdatos_form .txtnumero{
+	 height:18px; font-size:9px; border:#999999 solid 1px; width:50%; text-align:right;
+}
+.divdatos_form .txttelefono{
+	 height:18px; font-size:9px; border:#999999 solid 1px; width:50%; text-align:left;
+}
+.divdatos_form .txtcedula{
+	 height:18px; font-size:9px; border:#999999 solid 1px; width:50%; text-align:left;
+}
+.divdatos_form .txtruc{
+	 height:18px; font-size:9px; border:#999999 solid 1px; width:50%; text-align:left;
+}
+.divdatos_form .txtdate{
+	 height:18px; font-size:9px; border:#999999 solid 1px; width:50%; text-align:left;
+}
+.divdatos_form .txtmail{
+	 height:18px; font-size:9px; border:#999999 solid 1px; width:98%; text-transform: lowercase; text-align:left;
+}
+.divdatos_form .txttextomi{
+	 height:18px; font-size:9px; border:#999999 solid 1px; width:98%; text-transform: lowercase; text-align:left;
+}
+.divdatos_form .txttextonomb{
+	 height:18px; font-size:9px; border:#999999 solid 1px; width:98%; text-transform:uppercase; text-align:left;
+}
+.divdatos_form .txttextoma{
+	 height:18px; font-size:9px; border:#999999 solid 1px; width:98%; text-transform:uppercase; text-align:left;
+}
+.divdatos_form .txttextoma:disabled{
+	 height:18px; font-size:9px; border:#999999 solid 1px; width:98%; text-transform: uppercase; text-align:left;
+}
+.divdatos_form .txttextdir:disabled{
+	 height:18px; font-size:9px; border:#999999 solid 1px; width:90%; text-transform: uppercase; text-align:left;
+}
+.divdatos_form .txttextomi:disabled{
+	 height:18px; font-size:9px; border:#999999 solid 1px; width:98%; text-transform: lowercase; text-align:left;
+}
+.divdatos_form .txtcodigo:disabled{
+	 height:18px; font-size:9px; border:#999999 solid 1px; width:50%; text-align:left;
+}
+.divdatos_form textarea{
+	 height:18px; font-size:9px; border:#999999 solid 1px; width:98%; text-transform:uppercase;
+}
+.divdatos_form table select{
+	 border:none; height:24px; font-size:9px; width:99%;
+}
+.divdatos_form  table  tbody > tr > td{
+border-bottom:#CCCCCC dotted 1px;
+border-right:#CCCCCC dotted 1px;
+font-size:9px;
+height:14px;
+}
+.divdatos_form table thead > tr > th{ 
+border-bottom:#CCCCCC dotted 1px;
+border-right:#CCCCCC dotted 1px;
+font-size:9px;
+height:14px;
+background:#999999;
+}
+.texto_invalido{
+	box-shadow: 0 0 1.5px 1px red;
+}
